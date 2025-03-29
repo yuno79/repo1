@@ -10,18 +10,18 @@ export function About() {
         <div className="space-y-6">
           <h3 className="text-2xl font-semibold">Who I Am</h3>
           <p className="text-muted-foreground">
-            I am a passionate Full Stack Developer with a deep love for creating clean, efficient, and user-friendly
+            I am a passionate Video Editor with a deep love for creating clean, efficient, and user-friendly
             web applications. With several years of experience in the industry, I've worked on a diverse range of
             projects that have honed my skills and expanded my knowledge base.
           </p>
           <p className="text-muted-foreground">
-            My journey in web development began when I built my first website at the age of 16. Since then,
+            My journey in Video Editor began when I built my first website at the age of 16. Since then,
             I've been continuously learning and adapting to new technologies and methodologies to stay at the
             forefront of this ever-evolving field.
           </p>
           <p className="text-muted-foreground">
-            Beyond coding, I enjoy hiking, photography, and contributing to open-source projects. I believe
-            that a well-rounded life makes for a better developer.
+            Beyond Video Editing, I enjoy hiking, photography, and helping other in understanding colour maths. I believe
+            that a well-rounded life makes for a better Editor.
           </p>
         </div>
 

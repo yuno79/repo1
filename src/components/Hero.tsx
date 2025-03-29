@@ -5,13 +5,13 @@ export function Hero() {
         <div className="space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             <span className="block">Hi, I'm</span>
-            <span className="block text-primary mt-2">Your Name</span>
+            <span className="block text-primary mt-2">Yuno</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-muted-foreground">
-            Full Stack Developer
+            Video Editor
           </h2>
           <p className="text-lg text-muted-foreground max-w-md">
-            I build modern, responsive web applications with a focus on user experience and clean code.
+            I make quality videos , resposive for engaging with viewers.
           </p>
           <div className="flex gap-4">
             <a

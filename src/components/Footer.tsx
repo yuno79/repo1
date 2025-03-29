@@ -10,8 +10,7 @@ export function Footer() {
               <span className="text-primary">My</span>Portfolio
             </div>
             <p className="text-muted-foreground max-w-md">
-              A Full Stack Developer specializing in building exceptional digital experiences
-              that are fast, accessible, and visually appealing.
+             A full time Video Editor helping other to grow their Instagram page and YouTube Channels.
             </p>
           </div>
 
